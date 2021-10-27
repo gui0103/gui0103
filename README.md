@@ -15,7 +15,7 @@
   Operating Systems📚, <br>
   System Analysis📚, <br>
   React-Native📚, <br>
-  Typescript📚, <br>
+  TypeScript📚, <br>
   Java📚 <br>
   } <br><br>
 </h4> 
