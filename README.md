@@ -1,30 +1,39 @@
 ## Hey everyone, welcome to my GitHub✌
 
-- 🔭 I’m currently working on { <br>
+<h4>
+🔭 I’m currently working on { <br>
   JavaScript⚡, <br>
   Front-end⚡, <br>
   Back-end⚡, <br>
   Android⚡, <br>
   AWS⚡ <br>
   } <br><br>
+</h4>
 
-- 🌱 I’m currently learning { <br>
+<h4>
+🌱 I’m currently learning { <br>
   Operating Systems📚, <br>
   System Analysis📚, <br>
   React-Native📚, <br>
   Typescript📚, <br>
   Java📚 <br>
   } <br><br>
+</h4> 
  
+  ##
   
+  <br>
   <div align="center">
   <a href="https://github.com/gui0103">
   <img height="180em" width="450em" align="left"
        src="https://github-readme-stats.vercel.app/api?username=gui0103&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="450em" align+"right"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui0103&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</div> 
   
+   ##
+  
+  <br>
   <div align="center">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
