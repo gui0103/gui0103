@@ -62,9 +62,9 @@
   SpringBoot🎯, <br>
   JavaScript🎯, <br>
   REST API🎯, <br>
-  Java🎯, <br>
   HTML🎯, <br>
-  CSS🎯, <br>
+  Java🎯, <br>
+  CSS🎯 <br>
   ----------------------------------- <br>
   Figma🎯, <br>
   Wireframe🎯, <br>
