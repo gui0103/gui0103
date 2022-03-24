@@ -3,6 +3,7 @@
 <h4>
 🔭 I’m currently working on { <br>
   JavaScript⚡, <br>
+  Serverless⚡, <br>
   Front-end⚡, <br>
   Back-end⚡, <br>
   Android⚡, <br>
@@ -14,9 +15,9 @@
 🌱 I’m currently learning { <br>
   Operating Systems📚, <br>
   System Analysis📚, <br>
-  React-Native📚, <br>
   TypeScript📚, <br>
-  Java📚 <br>
+  REST API📚, <br>
+  React📚, <br>
   } <br><br>
 </h4> 
  
@@ -52,6 +53,35 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  ##
 
-
+<h4>
+📍 A list of things that I know { <br>
+  ----------------------------------- <br>
+  SpringBoot🎯, <br>
+  JavaScript🎯, <br>
+  REST API🎯, <br>
+  Java🎯, <br>
+  HTML🎯, <br>
+  CSS🎯, <br>
+  ----------------------------------- <br>
+  Figma🎯, <br>
+  Wireframe🎯, <br>
+  Web Prototype🎯 <br>
+  ----------------------------------- <br>
+  Azure🎯, <br>
+  SQL script🎯, <br>
+  Class Diagram🎯, <br>
+  System Analysis🎯, <br>
+  SQL entity-relationship model (ERM)🎯 <br>
+  ----------------------------------- <br>
+  AWS🎯, <br>
+  EC2🎯, <br>
+  DynamoDB🎯, <br>
+  CloudWatch🎯, <br>
+  Serverless🎯 <br>
+  
+  } <br><br>
+</h4> 
 
