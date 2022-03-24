@@ -17,7 +17,7 @@
   System Analysis📚, <br>
   TypeScript📚, <br>
   REST API📚, <br>
-  React📚, <br>
+  React📚 <br>
   } <br><br>
 </h4> 
  
