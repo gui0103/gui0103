@@ -13,8 +13,6 @@
 
 <h4>
 🌱 I’m currently learning { <br>
-  Operating Systems📚, <br>
-  System Analysis📚, <br>
   TypeScript📚, <br>
   REST API📚, <br>
   React📚 <br>
