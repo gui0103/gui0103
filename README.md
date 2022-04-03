@@ -13,6 +13,7 @@
 
 <h4>
 🌱 I’m currently learning { <br>
+  SpringBoot📚, <br>
   TypeScript📚, <br>
   REST API📚, <br>
   React📚 <br>
@@ -57,7 +58,6 @@
 <h4>
 📍 A list of things that I know { <br>
   ----------------------------------- <br>
-  SpringBoot🎯, <br>
   JavaScript🎯, <br>
   REST API🎯, <br>
   HTML🎯, <br>
