@@ -59,7 +59,7 @@
 📍 A list of things that I know { <br>
   ----------------------------------- <br>
   JavaScript🎯, <br>
-  REST API🎯, <br>
+  NodeJS🎯, <br>
   HTML🎯, <br>
   Java🎯, <br>
   CSS🎯 <br>
