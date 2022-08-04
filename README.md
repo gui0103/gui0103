@@ -6,7 +6,6 @@
   Serverless⚡, <br>
   Front-end⚡, <br>
   Back-end⚡, <br>
-  Android⚡, <br>
   AWS⚡ <br>
   } <br><br>
 </h4>
@@ -16,6 +15,8 @@
   SpringBoot📚, <br>
   TypeScript📚, <br>
   REST API📚, <br>
+  Android📚, <br>
+  Kotlin📚, <br>
   React📚 <br>
   } <br><br>
 </h4> 
