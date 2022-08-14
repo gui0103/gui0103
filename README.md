@@ -14,8 +14,8 @@
   SpringBoot📚, <br>
   TypeScript📚, <br>
   REST API📚, <br>
-  Python📚, <br>
   Android📚, <br>
+  Python📚, <br>
   Kotlin📚, <br>
   React📚 <br>
   } <br><br>
