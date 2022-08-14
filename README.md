@@ -4,8 +4,7 @@
 🔭 I’m currently working on { <br>
   JavaScript⚡, <br>
   Serverless⚡, <br>
-  Front-end⚡, <br>
-  Back-end⚡, <br>
+  SQL Server⚡, <br>
   AWS⚡ <br>
   } <br><br>
 </h4>
@@ -17,6 +16,7 @@
   REST API📚, <br>
   Android📚, <br>
   Kotlin📚, <br>
+  Python📚, <br>
   React📚 <br>
   } <br><br>
 </h4> 
