@@ -2,9 +2,9 @@
 
 <h4>
 🔭 I’m currently working on { <br>
+  SQL Server⚡, <br>
   JavaScript⚡, <br>
   Serverless⚡, <br>
-  SQL Server⚡, <br>
   AWS⚡ <br>
   } <br><br>
 </h4>
@@ -14,9 +14,9 @@
   SpringBoot📚, <br>
   TypeScript📚, <br>
   REST API📚, <br>
+  Python📚, <br>
   Android📚, <br>
   Kotlin📚, <br>
-  Python📚, <br>
   React📚 <br>
   } <br><br>
 </h4> 
