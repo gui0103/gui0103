@@ -1,6 +1,15 @@
 ## Hey everyone, welcome to my GitHub✌
 
 <h4>
+Hey everyone, my name is Guilherme, and I am a creative problem solver. <br>
+I love to come up with new ideas on the daily, in my job, at my college and of course, in my personal life.<br><br>
+
+Being honest and modest, I can tell that I am a talkative and extrovert person, making new friends and expressing what I want to say is super easy for me.<br><br>
+
+Since a kid, I was always curious, I adore to know why the things are as they are. Learning something new is like music for my ears, so you can notice that I talk about everything, even if it's just a bit.<br>
+</h4>
+
+<h4>
 🔭 I’m currently working on { <br>
   SQL Server⚡, <br>
   JavaScript⚡, <br>
