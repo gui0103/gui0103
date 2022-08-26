@@ -1,7 +1,7 @@
 ## Hey everyone, welcome to my GitHub✌
 
 <h4>
-Hey everyone, my name is Guilherme, and I am a creative problem solver. <br>
+My name is Guilherme, and I am a creative problem solver. <br>
 I love to come up with new ideas on the daily, in my job, at my college and of course, in my personal life.<br><br>
 
 Being honest and modest, I can tell that I am a talkative and extrovert person, making new friends and expressing what I want to say is super easy for me.<br><br>
