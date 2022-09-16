@@ -10,24 +10,22 @@ Since a kid, I was always curious, I adore to know why the things are as they ar
 </h4>
 
 <h4>
-🔭 I’m currently working on { <br>
-  SQL Server⚡, <br>
-  JavaScript⚡, <br>
-  Serverless⚡, <br>
-  AWS⚡ <br>
-  } <br><br>
-</h4>
+🎯My Main Technologies: <br> <br>
 
-<h4>
-🌱 I’m currently learning { <br>
-  SpringBoot📚, <br>
-  TypeScript📚, <br>
-  REST API📚, <br>
-  Android📚, <br>
-  Python📚, <br>
-  Kotlin📚, <br>
-  React📚 <br>
-  } <br><br>
+-> JavaScript | React | NodeJS | React Native <br>
+-> Java | Spring Boot <br>
+-> SQL | SQL Server <br>
+-> AWS | EC2 | NoSQL <br>
+-> HTML | CSS <br>
+-> RESTful API | REST API <br> <br>
+
+📚Technologies That I Am Practicing: <br> <br>
+
+-> Kotlin | Android <br>
+-> Python | Selenium <br>
+-> MongoDB | Google Firebase <br>
+-> AWS | DynamoDB | CloudWatch | S3 <br>
+-> TypeScript
 </h4> 
  
   ##
@@ -65,32 +63,4 @@ Since a kid, I was always curious, I adore to know why the things are as they ar
 </div>
   
   ##
-
-<h4>
-📍 A list of things that I know { <br>
-  ----------------------------------- <br>
-  JavaScript🎯, <br>
-  NodeJS🎯, <br>
-  HTML🎯, <br>
-  Java🎯, <br>
-  CSS🎯 <br>
-  ----------------------------------- <br>
-  Figma🎯, <br>
-  Wireframe🎯, <br>
-  Web Prototype🎯 <br>
-  ----------------------------------- <br>
-  Azure🎯, <br>
-  SQL script🎯, <br>
-  Class Diagram🎯, <br>
-  System Analysis🎯, <br>
-  SQL entity-relationship model (ERM)🎯 <br>
-  ----------------------------------- <br>
-  AWS🎯, <br>
-  EC2🎯, <br>
-  DynamoDB🎯, <br>
-  CloudWatch🎯, <br>
-  Serverless🎯 <br>
-  
-  } <br><br>
-</h4> 
 
