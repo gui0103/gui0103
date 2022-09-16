@@ -19,7 +19,7 @@ Since a kid, I was always curious, I adore to know why the things are as they ar
 -> HTML | CSS <br>
 -> RESTful API | REST API <br> <br>
 
-📚Technologies That I Am Practicing: <br> <br>
+📚Technologies That I Am Practicing: <br>
 
 -> Kotlin | Android <br>
 -> Python | Selenium <br>
