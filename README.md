@@ -10,22 +10,19 @@ Since a kid, I was always curious, I adore to know why the things are as they ar
 </h4>
 
 <h4>
-🎯My Main Technologies: <br> <br>
+🎯Technologies: <br> <br>
 
--> JavaScript | React | NodeJS | React Native <br>
--> Java | Spring Boot <br>
--> SQL | SQL Server <br>
--> AWS | EC2 | NoSQL <br>
--> HTML | CSS <br>
--> RESTful API | REST API <br> <br>
+-> JavaScript | React | NodeJS | React Native
+-> TypeScript | Next.js
+-> Java | Spring Boot
+-> SQL | SQL Server
+-> AWS | EC2 | NoSQL | DynamoDB | CloudWatch | S3
+-> HTML | CSS
+-> RESTful API | REST API
+-> Kotlin | Android
+-> Python | Selenium
+-> MongoDB | Google Firebase
 
-📚Technologies That I Am Practicing: <br>
-
--> Kotlin | Android <br>
--> Python | Selenium <br>
--> MongoDB | Google Firebase <br>
--> AWS | DynamoDB | CloudWatch | S3 <br>
--> TypeScript
 </h4> 
  
   ##
