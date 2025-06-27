@@ -12,15 +12,15 @@ Since a kid, I was always curious, I adore to know why the things are as they ar
 <h4>
 🎯Technologies: <br> <br>
 
--> JavaScript | React | NodeJS | React Native
--> TypeScript | Next.js
--> Java | Spring Boot
--> SQL | SQL Server
--> AWS | EC2 | NoSQL | DynamoDB | CloudWatch | S3
--> HTML | CSS
--> RESTful API | REST API
--> Kotlin | Android
--> Python | Selenium
+-> JavaScript | React | NodeJS | React Native <br>
+-> TypeScript | Next.js <br>
+-> Java | Spring Boot <br>
+-> SQL | SQL Server <br>
+-> AWS | EC2 | NoSQL | DynamoDB | CloudWatch | S3 <br>
+-> HTML | CSS <br>
+-> RESTful API | REST API <br>
+-> Kotlin | Android <br>
+-> Python | Selenium <br>
 -> MongoDB | Google Firebase
 
 </h4> 
